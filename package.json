@@ -1,0 +1,27 @@
+{
+  "name": "API-node-ML",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marthyndl/API-node-ML.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marthyndl/API-node-ML/issues"
+  },
+  "homepage": "https://github.com/marthyndl/API-node-ML#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "axios": "^0.18.0",
+    "concurrently": "^3.5.1",
+    "express-prettify": "^0.1.1",
+    "lodash": "^4.17.11"
+  }
+}
